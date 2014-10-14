@@ -1,3 +1,3 @@
 threadpool_example
 ==================
-blah blah
+Repository holds an example of thread pools for the eco2414 module, illustrating basic use of version control
